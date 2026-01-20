@@ -1,0 +1,42 @@
+# Translation file
+
+#
+# Generic
+#
+
+# Module label 'ModuleTunisiaelinvName'
+ModuleTunisiaelinvName = Tunisiaelinv
+# Module description 'ModuleTunisiaelinvDesc'
+ModuleTunisiaelinvDesc = Tunisiaelinv description
+
+#
+# Admin page
+#
+TunisiaelinvSetup = Tunisiaelinv setup
+Settings = Settings
+TunisiaelinvSetupPage = Tunisiaelinv setup page
+NewSection=New section
+TUNISIAELINV_MYPARAM1 = My param 1
+TUNISIAELINV_MYPARAM1Tooltip = My param 1 tooltip
+TUNISIAELINV_MYPARAM2=My param 2
+TUNISIAELINV_MYPARAM2Tooltip=My param 2 tooltip
+
+
+#
+# About page
+#
+About = About
+TunisiaelinvAbout = About Tunisiaelinv
+TunisiaelinvAboutPage = Tunisiaelinv about page
+
+#
+# Sample page
+#
+TunisiaelinvArea = Home Tunisiaelinv
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description
