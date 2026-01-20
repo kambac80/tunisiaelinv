@@ -25,7 +25,7 @@ Ce module est **Open Source** et gratuit. Si vous souhaitez contribuer à son am
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/21650233333?text=Bonjour%2C%20j%27utilise%20votre%20module%20Dolibarr%20Tunisie%20et%20j%27aimerais%20avoir%20des%20informations.)
 
-**Développé par : [Votre Nom ou Entreprise]**
+**Développé par : Kamel BACCOURI**
 *Soutenez la digitalisation des entreprises tunisiennes !*
 
 ---
