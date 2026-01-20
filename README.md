@@ -9,7 +9,7 @@ Ce module gratuit pour Dolibarr permet de générer des factures électroniques 
 - **Nommage Standard** : Les fichiers sont nommés selon le format `TEIF_MatriculeFiscale_RefFacture.xml`.
 
 ## 🛠 Installation
-1. Téléchargez le fichier `.zip` depuis la section [Releases](https://github.com/votre-pseudo/tunisiaelinv/releases).
+1. Téléchargez le fichier `.zip` depuis la section [Releases](https://github.com/kambac80/tunisiaelinv/releases).
 2. Décompressez-le dans le dossier `custom/` de votre installation Dolibarr.
 3. Allez dans **Configuration > Modules** et activez le module **Tunisiaelinv**.
 
